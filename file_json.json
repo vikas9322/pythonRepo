@@ -1,0 +1,2 @@
+unique_number = int(input("Enter a number:"))
+if()
