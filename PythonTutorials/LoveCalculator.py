@@ -20,3 +20,10 @@ e = lower_case.count("e")
 second_digit = l + o + v + e
 
 score = int(str(first_digit) + str(second_digit))
+
+if(score<10) or (score>90):
+    print(f"your score is {score} you go togther like coke na d mentos")
+elif(score>=40) and (score<=50):
+    print(f"your score is {score},you are alright togther")
+else:
+    print(f"your socre is {score}")
