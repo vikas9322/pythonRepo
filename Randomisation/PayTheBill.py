@@ -2,7 +2,7 @@
 
 
 import random
-# names = names_string.split(",")
+names = ""
 
 num_items = len(names)
 
