@@ -86,4 +86,4 @@ def factorial(n):
     return result
 
 num = 5
-prime("Factorial of",num,"is",factorial(num))
+print("Factorial of",num,"is",factorial(num))
